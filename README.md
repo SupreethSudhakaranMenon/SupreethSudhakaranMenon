@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### 💼 Worked as Software Developer Engineer at BYJU's. 
 #### :mortar_board:  I am an Undergraduate Research Student at Cognitive Science Lab IIITH 
 #### ✨ Google Summer of Code Student Developer and Google Code-In Mentor
 #### 🏅Limca Book of Record Holder 
