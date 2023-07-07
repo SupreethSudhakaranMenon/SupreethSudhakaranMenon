@@ -44,13 +44,15 @@ Here are some ideas to get you started:
 
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="SQLlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>  
 
-<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 # 🔬 Research Publications : 
 
 #### 📄 The role of individual physical body measurements and activity on spine kinematics during flexion, lateral bending and twist tasks in healthy young adults – Comparing marker(less) data, Biomedical Signal Processing and Control, Volume 82, 2023, 104517, ISSN 1746-8094, https://doi.org/10.1016/j.bspc.2022.104517.
 
 #### 📄 Investigation of microstates from EEG signals of tip-pinch and wrist flexion/extension movement, Society of Applied Neuroscience, 2022, https://san2022.org/schedule/.
+
+#### 📄 Exploring EEG Microstates During Motor Movements: A Study on Tip-pinch and Wrist flexion & extension. [Under Review] 
 
 # 🚀 Hobbies :
 
@@ -85,7 +87,5 @@ Here are some ideas to get you started:
 
 
 
-![Supreeth's github stats](https://github-readme-stats.vercel.app/api?username=SupreethSudhakaranMenon&show_icons=true&theme=vue-dark)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SupreethSudhakaranMenon.count_visitors)
