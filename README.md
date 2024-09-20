@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 # 💪 Experience :
 
-#### 💼 Software Developer Engineer at BYJU's. 
+#### 💼 Research Engineer at Product Labs - IIITH
+#### 💼 Ex-Software Developer Engineer at BYJU's. 
 #### :mortar_board: Undergraduate Research Student at Cognitive Science Lab (Perception Engineering Group) IIITH 
 #### 🎓IHUB-Data Fellowship awardee 
 #### ✨Google Summer of Code Student Developer and Google Code-In Mentor
